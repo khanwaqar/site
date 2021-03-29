@@ -39,20 +39,20 @@
                         <!--logo-->
                         <div class="logo-holder">
                             <a href="index.html">
-                            <img src="images/logo.png" class="respimg logo-vis" alt="">
-                            <img src="images/logo2.png" class="respimg logo-notvis" alt="">
+                            <img src="images/logo33.png" class="respimg logo-vis" alt="">
+                            <img src="images/logo22.png" class="respimg logo-notvis" alt="">
                             </a>
                         </div>
                         <!--Navigation -->
                         <div class="nav-holder">
                             <nav>
                                 <ul>
-                                    <li><a href="index.php" class="act-link">Home</a></li>
+                                    <li><a href="index.php">Home</a></li>
                                     <li><a href="menu.php">Menu</a></li>
                                     <li><a href="gallery.php">Gallery</a></li>
                                     <li><a href="timigs.php">Timigs</a></li>
                                     <li><a href="about.php">About</a></li>
-                                    <li><a href="contact.php">Contact</a></li>
+                                    <li><a href="contact.php"  class="act-link">Contact</a></li>
                                 </ul>
                             </nav>
                         </div>
@@ -126,12 +126,12 @@
                                     <div class="contact-form-holder">
                                         <div id="contact-form">
                                             <div id="message2"></div>
-                                            <form method="post" action="http://lambert.kwst.net/site/php/contact.php" name="contactform" id="contactform">
+                                            <form method="post" action="php/contact.php" name="contactform" id="contactform">
                                                 <input name="name" type="text" class="name"  onClick="this.select()" value="Name" >
                                                 <input name="email" type="text" class="email" onClick="this.select()" value="E-mail" >
                                                 <input name="phone" type="text" class="phone" onClick="this.select()" value="Phone" >
                                                 <textarea name="comments"  class="comments" onClick="this.select()" >Message</textarea>
-                                                <button type="submit"  id="submit">Send </button>
+                                                <button type="submit" name="submit" id="submit">Send </button>
                                             </form>
                                         </div>
                                     </div>

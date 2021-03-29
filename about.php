@@ -39,19 +39,19 @@
                         <!--logo-->
                         <div class="logo-holder">
                             <a href="index.html">
-                            <img src="images/logo.png" class="respimg logo-vis" alt="">
-                            <img src="images/logo2.png" class="respimg logo-notvis" alt="">
+                            <img src="images/logo33.png" class="respimg logo-vis" alt="">
+                            <img src="images/logo22.png" class="respimg logo-notvis" alt="">
                             </a>
                         </div>
                         <!--Navigation -->
                         <div class="nav-holder">
                             <nav>
                                 <ul>
-                                    <li><a href="index.php" class="act-link">Home</a></li>
+                                    <li><a href="index.php">Home</a></li>
                                     <li><a href="menu.php">Menu</a></li>
                                     <li><a href="gallery.php">Gallery</a></li>
                                     <li><a href="timigs.php">Timigs</a></li>
-                                    <li><a href="about.php">About</a></li>
+                                    <li><a href="about.php" class="act-link">About</a></li>
                                     <li><a href="contact.php">Contact</a></li>
                                 </ul>
                             </nav>
@@ -176,36 +176,36 @@
                                 <div class="team-item">
                                     <a href="team/mem1.html" class="popup-with-move-anim">
                                     <span class="team-details">More info</span>
-                                    <img src="images/team/thumbnails/1.jpg" alt="" class="respimg">
-                                    <span class="chefname">Andy Moore</span>
-                                    <span class="chefinfo">Master chef in Brooklin</span>
+                                    <img src="images/team/thumbnails/placeholder.png" alt="" class="respimg">
+                                    <span class="chefname">Mr Adrian Venoin</span>
+                                    <span class="chefinfo">Owner</span>
                                     </a>
                                 </div>
                                 <!-- member 2 link -->
                                 <div class="team-item">
                                     <a href="team/mem2.html" class="popup-with-move-anim">
                                     <span class="team-details">More info</span>
-                                    <img src="images/team/thumbnails/2.jpg" alt="" class="respimg">
-                                    <span class="chefname">Jhon Doe</span>
-                                    <span class="chefinfo">Master chef in Florida</span>
+                                    <img src="images/team/thumbnails/placeholder-female.jpeg" alt="" class="respimg">
+                                    <span class="chefname">Diana Adrens</span>
+                                    <span class="chefinfo">Manager</span>
                                     </a>
                                 </div>
                                 <!-- member 3 link -->
                                 <div class="team-item">
                                     <a href="team/mem3.html" class="popup-with-move-anim">
                                     <span class="team-details">More info</span>
-                                    <img src="images/team/thumbnails/3.jpg" alt="" class="respimg">
+                                    <img src="images/team/thumbnails/chef-placeholder.png" alt="" class="respimg">
                                     <span class="chefname">Andy Moore</span>
-                                    <span class="chefinfo">Master chef in Bronks</span>
+                                    <span class="chefinfo">Master chef</span>
                                     </a>
                                 </div>
                                 <!-- member 4 link -->
                                 <div class="team-item">
                                     <a href="team/mem4.html" class="popup-with-move-anim">
                                     <span class="team-details">More info</span>
-                                    <img src="images/team/thumbnails/4.jpg" alt="" class="respimg">
-                                    <span class="chefname">Andy Moore</span>
-                                    <span class="chefinfo">Master chef in Maiami</span>
+                                    <img src="images/team/thumbnails/woman-chef.jpg" alt="" class="respimg">
+                                    <span class="chefname">Elizabeth Moore</span>
+                                    <span class="chefinfo">Chef</span>
                                     </a>
                                 </div>
                             </div>

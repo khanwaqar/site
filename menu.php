@@ -39,16 +39,16 @@
                         <!--logo-->
                         <div class="logo-holder">
                             <a href="index.html">
-                            <img src="images/logo.png" class="respimg logo-vis" alt="">
-                            <img src="images/logo2.png" class="respimg logo-notvis" alt="">
+                            <img src="images/logo33.png" class="respimg logo-vis" alt="">
+                            <img src="images/logo22.png" class="respimg logo-notvis" alt="">
                             </a>
                         </div>
                         <!--Navigation -->
                         <div class="nav-holder">
                             <nav>
                                 <ul>
-                                    <li><a href="index.php" class="act-link">Home</a></li>
-                                    <li><a href="menu.php">Menu</a></li>
+                                    <li><a href="index.php">Home</a></li>
+                                    <li><a href="menu.php" class="act-link">Menu</a></li>
                                     <li><a href="gallery.php">Gallery</a></li>
                                     <li><a href="timigs.php">Timigs</a></li>
                                     <li><a href="about.php">About</a></li>
